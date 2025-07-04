@@ -2,7 +2,7 @@
 
 A simple project demonstrating basic e-commerce functionality "Add to Cart", built using HTML, CSS, Bootstrap, and JavaScript. The project uses LocalStorage to store product and cart data, allowing the data to persist even after page reloads.
 
-## ✨ Features
+## ✨ Features :
 
 - ✅ Add products with **Category**, **Name**, and **Price**
 - 🗑️ Delete products from the main product list
@@ -11,7 +11,7 @@ A simple project demonstrating basic e-commerce functionality "Add to Cart", bui
 - ❌ Remove products from the cart
 - 💾 All data is stored in the **browser’s LocalStorage**
 
-## 🧰 Technologies Used
+## 🧰 Technologies Used :
 
 - **HTML5** – Markup structure  
 - **CSS3** – Custom styling  
